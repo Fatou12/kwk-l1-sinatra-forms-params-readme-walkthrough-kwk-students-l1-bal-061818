@@ -12,4 +12,5 @@ class App < Sinatra::Base
   <p>Your Favorite Food: <input type="text" name="favorite_food"></p>
   <input type="submit">
 </form>
+  end
 end
